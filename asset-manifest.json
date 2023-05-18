@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/diagramma/static/css/main.8b950e9a.css",
+    "main.js": "/diagramma/static/js/main.1ce86114.js",
+    "index.html": "/diagramma/index.html",
+    "main.8b950e9a.css.map": "/diagramma/static/css/main.8b950e9a.css.map",
+    "main.1ce86114.js.map": "/diagramma/static/js/main.1ce86114.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8b950e9a.css",
+    "static/js/main.1ce86114.js"
+  ]
+}
